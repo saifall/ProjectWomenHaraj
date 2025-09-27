@@ -1,7 +1,13 @@
 {
   "dependencies": {
     "@react-native-community/hooks": "^100.1.0",
+    "expo": "^54.0.10",
     "native-base": "^3.4.28",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "react-native-modal": "^14.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@types/expo": "^32.0.13"
   }
 }
