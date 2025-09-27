@@ -125,8 +125,9 @@ All development reports are in the `report-dev/` folder:
 
 <div align="center">
   
-	© 2025 SAiF. All rights reserved. | جميع الحقوق محفوظة للمطور سيف
-  
+	© 2025 <b>SAiF</b> (المطور). All rights reserved.<br>
+	جميع الحقوق محفوظة للمطور <b>SAiF</b><br>
+	<a href="https://github.com/saifall" target="_blank">GitHub: saifall</a>
 </div>
 
 ## Development Log (سجل التطوير)
