@@ -1,8 +1,44 @@
 
+
 # Women Haraj Project (مشروع حراج نسائي)
 
-This project is a marketplace application specifically for women.
-هذا المشروع عبارة عن تطبيق سوق إلكتروني مخصص للنساء.
+<p align="center">
+	<img src="frontend/assets/icon.png" alt="Women Haraj Logo" width="120" />
+</p>
+
+<p align="center">
+	<b>Women Haraj</b> | <b>مشروع حراج نسائي</b>
+</p>
+
+<p align="center">
+	<i>This project is a marketplace application specifically for women.<br>
+	هذا المشروع عبارة عن تطبيق سوق إلكتروني مخصص للنساء.</i>
+</p>
+
+---
+
+**آخر تحديث | Last Updated**: 24 سبتمبر 2025 | September 24, 2025  
+**الإصدار | Version**: 4.3  
+**Node.js**: 18+  
+**pnpm**: 8+  
+**المطور | Developer**: SAiF
+
+---
+
+---
+
+
+## 🚀 Features (الميزات)
+
+- تسجيل دخول وتسجيل مستخدمين جدد (Authentication & Registration)
+- عرض الإعلانات والبحث عنها (Browse & Search Ads)
+- إضافة إعلان جديد (Add New Ad)
+- إدارة الإعلانات الخاصة بالمستخدم (Manage My Ads)
+- شاشة الملف الشخصي وتعديل البيانات (Profile Management)
+- شاشة حول التطبيق (About Screen)
+- تصميم متجاوب وواجهة سهلة الاستخدام (Responsive & User-Friendly UI)
+- دعم الوضع الليلي (Dark Mode Support)
+- تقارير تطوير مفصلة (Development Reports)
 
 ---
 
@@ -84,7 +120,14 @@ All development reports are in the `report-dev/` folder:
 - stage-3.5-report.md
 - stage-4.1-report.md
 
+
 ---
+
+<div align="center">
+  
+	© 2025 SAiF. All rights reserved. | جميع الحقوق محفوظة للمطور سيف
+  
+</div>
 
 ## Development Log (سجل التطوير)
 
