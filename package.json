@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-native-community/hooks": "^100.1.0",
+    "native-base": "^3.4.28",
+    "react-native-modal": "^14.0.0-rc.1"
+  }
+}
